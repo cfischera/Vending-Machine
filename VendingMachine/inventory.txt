@@ -1,0 +1,6 @@
+S::A1::Chips::1.50::16
+S::A2::Cheetos::0.66::17
+B::B1::Grape Soda::2.00::10
+B::B2::Sprite::1.75::9
+S::C1::Clif Bar::3.35::10
+S::C2::Literally Nothing::1.00::0
